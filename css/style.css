@@ -1,0 +1,22 @@
+body{
+    font-family: 'Pangolin', cursive;
+}
+
+h1{
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.name-highlight{
+    color:#ffa500;
+}
+
+.first-intro{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-intro img{
+    width: 100%;
+}
